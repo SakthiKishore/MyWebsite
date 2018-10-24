@@ -1,2 +1,2 @@
 # SakthiKishore.github.io
-My github page
+Static website about me!
